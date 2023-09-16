@@ -1,0 +1,53 @@
+{
+  "courses": [
+    {
+      "title": "web design ",
+      "description": "awesome course with karam trainer",
+      "videos_length": "12 minutes"
+    },
+    {
+      "title": "mobile design ",
+      "description": "awesome course with karam trainer",
+      "videos_length": "12 minutes"
+    },
+    {
+      "title": "UI UX design ",
+      "description": "awesome course with karam trainer",
+      "videos_length": "12 minutes"
+    }
+  ],
+  "teacher": [
+    {
+      "first_name": "karam",
+      "last_name": "mustafa",
+      "age": 26
+    },
+    {
+      "first_name": "karam",
+      "last_name": "mustafa",
+      "age": 26
+    },
+    {
+      "first_name": "karam",
+      "last_name": "mustafa",
+      "age": 26
+    }
+  ],
+  "students": [
+    {
+      "first_name": "karam",
+      "last_name": "mustafa",
+      "age": 26
+    },
+    {
+      "first_name": "karam",
+      "last_name": "mustafa",
+      "age": 26
+    },
+    {
+      "first_name": "karam",
+      "last_name": "mustafa",
+      "age": 26
+    }
+  ]
+}
